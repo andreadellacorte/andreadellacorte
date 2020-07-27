@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreadellacorte" alt="andreadellacorte" /> </p>
+
 <!--
 **andreadellacorte/andreadellacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
