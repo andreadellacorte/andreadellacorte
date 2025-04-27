@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreadellacorte" alt="andreadellacorte" /> </p>
 
+[![FreePalestine.Dev](https://freepalestine.dev/badge?t=d&u=0&r=1)](https://freepalestine.dev)
+
 <!--
 **andreadellacorte/andreadellacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
